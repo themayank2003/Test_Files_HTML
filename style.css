@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+    color: #fff;
+    position: sticky;
+top: 0;
+}
+.list{
+display: inline-block;
+padding: 10px;
+margin: 5px;
+}
+.main_Section{
+ margin-top: 24px;
+ 
+}
+.box1{
+    background-color: aqua;
+}
+body{
+    height: 3444px;
+    border:2px solid red;
+    border-radius: 2px ;
+}
