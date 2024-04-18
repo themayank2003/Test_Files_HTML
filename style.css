@@ -16,10 +16,12 @@ margin: 5px;
 }
 .main_Section{
  margin-top: 24px;
+
  
 }
 .box1{
-    background-color: aqua;
+    background-color: rgb(119, 81, 119);
+    color: black;
 }
 body{
     height: 3444px;
